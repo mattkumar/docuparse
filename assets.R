@@ -110,9 +110,7 @@ custom_css <- "
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,400&display=swap');
 
-.rank-list-container.custom-sortable {
-            background-color: #3DD1E7;
-}
+ 
 
 
 h1 {

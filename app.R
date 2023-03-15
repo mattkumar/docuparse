@@ -21,7 +21,7 @@ ui <- fluidPage(
       offset = 3,
       div(
         align = "center",
-        tags$h1("Protocol Parser"),
+        tags$h1("Document Parser"),
         tags$hr()
       ),
       br(),
